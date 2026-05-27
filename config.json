@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterspdate",
+        "uuid": 5400927,
+        "checksum": "g6n4eh"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
